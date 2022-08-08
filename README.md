@@ -4,10 +4,16 @@ This repository is used to define the schemas of all the entities that can be wr
 
 ## Table of contents
 
-- [Event](./src/event.md)
-- [File](./src/file.md)
-- [Folder](./src/folder.md)
-- [Me](./src/me.md)
+- Nodes
+  - [Event](src/nodes/event.md)
+  - [File](src/nodes/file.md)
+  - [Folder](src/nodes/folder.md)
+  - [List](src/nodes/list.md)
+  - [Me](src/nodes/me.md)
+- Relations
+  - [Contain](src/relations/contain.md)
+  - [Create](src/relations/create.md)
+  - [Upload](src/relations/upload.md)
 
 ## Usage
 

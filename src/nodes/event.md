@@ -9,10 +9,6 @@ Something that has happened, might have happened, is happening, might be happeni
 * __startDate__ `Date`
 * __endDate__ `Date`
 
-## Relations
-
-### Locate
-
 ## Versions
 
-* `1.0.0`
+### 1

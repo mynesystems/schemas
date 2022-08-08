@@ -6,10 +6,6 @@ Node representation of the metadata of a Folder
 
 * __name__ `String`
 
-## Relations
-
-### Contain
-
 ## Versions
 
-* `1.0.0`
+### 1
