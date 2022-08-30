@@ -6,6 +6,7 @@ Node representation of the metadata of a File
 
 * __name__ `String`
 * __size__ `UnsignedInteger`
+* __parent__ `String`
 
 ## Versions
 
